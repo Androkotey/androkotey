@@ -1,9 +1,4 @@
-<h1 align="center">Hi there 👋</h1>
-
-
-<p align="center">
-  <img src="./welcome.png" width="100%">
-
+<h1 align="center"><img src="./welcome.gif" width="400" height="200"></h1>
 
 <!--
 **Androkotey/androkotey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
