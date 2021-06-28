@@ -1,4 +1,4 @@
-<h1 align="left"><img src="./welcome.gif" width="80" height="60"> Hi there 👋 <img src="./welcome_i.gif" width="80" height="60"> </h1>
+<h1 align="left"><img src="./welcome.gif" width="80" height="60"> Hi there 👋</h1>
 
 <!--
 **Androkotey/androkotey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
