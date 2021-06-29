@@ -26,5 +26,5 @@ I started learning ML not so long ago and still have problems with programming a
 
 - 2016 - 2020. Studied nanotechnology and microsystem technology at Saint Petersburg Electrotechnical University 'LETI'  
 - Sept 2020 - Mar 2021. Studied physics and technology of nanostructures at ITMO University  
-&nbsp;```KeyboardInterrupt``` (Realization that it is time to change the field of activity)
+&nbsp;```KeyboardInterrupt``` (The realization that is the time to change the field of activity)
 - Apr 2021 - curr. Studying Python and ML for admission to Higher School of Economics.
