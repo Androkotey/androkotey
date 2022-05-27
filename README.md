@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me: nikita.kotlyarov.2012@mail.ru
 
-I started learning ML not so long ago and still have problems with programming and algorithms, optimization and discrete mathematics, and so on. In general, in April 2021 I started almost from scratch. Therefore, in the near future there will be only useless educational projects 😅
+I started learning ML not so long ago and still have problems with programming and algorithms, optimization and discrete mathematics, and so on. In general, in April 2021 I started almost from scratch. 
 
 ### Bio 
 
