@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 --> 
 
-- 🔭 I’m currently studying machine learning and data analysis
+- 🔭 I’m currently studying Data Engineering
 
 - 📫 How to reach me: nikita.kotlyarov.2012@mail.ru
 
@@ -26,4 +26,5 @@ I started learning ML not so long ago and still have problems with programming a
 
 - 2016 - 2020. Studied nanotechnology and microsystem technology at Saint Petersburg Electrotechnical University 'LETI'  
 - Sept 2020 - Mar 2021. Studied physics and technology of nanostructures at ITMO University  
-- Apr 2021 - curr. Studying Python and ML
+- Apr 2021 - Aug 2022. Studying Python and ML
+- Aug 2022 - curr. Studying Data Engineering
