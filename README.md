@@ -1,4 +1,4 @@
-<h1 align="left"><img src="./welcome.gif" width="80" height="60"> Nikita Kotlyarov (not DE yet)</h1>
+<h1 align="left"><img src="./welcome.gif" width="80" height="60"> Nikita Kotlyarov</h1>
 
 
 <!--
